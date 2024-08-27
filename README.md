@@ -1,12 +1,25 @@
-Boas vindas ao meu perfil 💙💙
-Meu nome é Arthur Maia Santiago
+  Arthur Maia Santiago 15anos
+  Email: santiago.arthur@escola.pr.gov.br
+  Endereço:Rua clara nunes 169
+  contato: 44991788621
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-Você pode entrar em contato comigo 📫
-alurastartestudante@email.com
+    Objetivo Profissional:
+    *Busco emprego na área de Barbeiro Profissional
 
-@alurastartestudante
+    Formação Acadêmica:
+    *Ensino Médio incompleto, Colégio estadual jardim Universitaŕio
 
-![](link)
+     Experiência Profissional:
+     *Mecânico
+     *Montador de Móvies
+
+     Curso e qualificação:
+     * Curso de barbeiro iniciante
+     * Informática Básica
+
+     Informações Complementares:
+     * Habilidade em aprender sozinho
+     * Aprendizagem com foco
+     * Organizado.
+
+    
